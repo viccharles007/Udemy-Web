@@ -11,6 +11,7 @@ import Breackthrough from './components/Breackthrough';
 import Imagebox from './components/Imagebox';
 import Fourthsection from './components/Fourthsection';
 import Fifthsection from './components/Fifthsection';
+import Sixthsection from './components/Sixthsection';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
     <Imagebox />
     <Fourthsection />
     <Fifthsection />
+    <Sixthsection />
   
     
     

@@ -641,3 +641,29 @@
   font-size: 30px;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.brownsection {
+ text-align: center;
+ 
+  
+}
+.james-brown-jr {
+  
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.anothernav {
+
+  margin: 0 auto;
+  width: 83%;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 2%;
+}
+.Tundethegreat {
+  padding-top: 3%;
+  margin-top: 5%;
+  background-color: rgb(247, 247, 247);
+  width: 100%;
+  height: 200px;
+}
