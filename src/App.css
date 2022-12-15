@@ -452,10 +452,13 @@
   flex-wrap: wrap;
   
 }
+.scrowbox {
+  width: 17%;
+}
 .scrowimg {
   border: 1px solid rgb(204, 204, 204);
   cursor: pointer;
-  width: 240px;
+  width: 100%;
   height: 140px;
 }
 .breackthrough-nav {
@@ -480,7 +483,7 @@
   
 }
 .boldp {
-  font-size: 17px;
+  font-size: 100%;
   font-weight: bold;
 }
 .lilp {
