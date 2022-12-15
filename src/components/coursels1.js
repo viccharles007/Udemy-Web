@@ -1,6 +1,6 @@
 import React from 'react'
 
-function coursels1(props) {
+function Coursels1(props) {
   return (
     <div>
         <img src={props.img} alt='' />
@@ -12,4 +12,4 @@ function coursels1(props) {
   )
 }
 
-export default coursels1
+export default Coursels1
